@@ -1,0 +1,1506 @@
+Tsample
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+cProcessPCH /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Regular_Expression/sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample normal arm64
+cCopyStringsFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings sample/en.lproj/InfoPlist.strings
+cCompileXIB /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib
+cCopyPlistFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/RE.plist sample/RE.plist
+cCompileStoryboard /Users/KentarOu/Desktop/Regular_Expression/sample/Base.lproj/Main.storyboard
+cCompileXIB /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.xib
+cCompileAssetCatalog /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app /Users/KentarOu/Desktop/Regular_Expression/sample/Images.xcassets
+cProcessInfoPlistFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/Info.plist /Users/KentarOu/Desktop/Regular_Expression/sample/sample-Info.plist
+cGenerateDSYMFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample
+cProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+cTouch /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+cCodeSign /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c0000000052C63DA60000000000000094
+t1388723622
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c0000000052C63DA60000000000000096
+t1388723622
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052C63DA6000000000000036B
+t1388723622
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C63DA600000000000001A0
+t1388723622
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052C63DA70000000000630EB0
+t1388723623
+s6491824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052C63DA8000000000079BFE0
+t1388723624
+s7978976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C63DA800000000004D63C0
+t1388723624
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052C63DA8000000000042AB80
+t1388723624
+s4369280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052C63DA800000000003062A0
+t1388723624
+s3170976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052C63DA8000000000006F7F0
+t1388723624
+s456688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C63DA90000000000A92BC0
+t1388723625
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052C63DAA0000000000046ED0
+t1388723626
+s290512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052C63DAB0000000000640E80
+t1388723627
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052C63DAA000000000017E0C0
+t1388723626
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052C63DAF00000000025A5AC0
+t1388723631
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052C63DB30000000000387B30
+t1388723635
+s3701552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+c0000000052C63DB6000000000001D2B0
+t1388723638
+s119472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+c0000000052C63DB6000000000054C820
+t1388723638
+s5556256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c0000000052C63DB60000000000028490
+t1388723638
+s165008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052C63DB600000000000472B0
+t1388723638
+s291504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052C63DB6000000000003EB80
+t1388723638
+s256896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052C63DB6000000000002AEE0
+t1388723638
+s175840
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052C63DB700000000000E2F20
+t1388723639
+s929568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052C63DB600000000000A1FC0
+t1388723638
+s663488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c0000000052C63DB6000000000001E8A0
+t1388723638
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c0000000052C63DB60000000000034100
+t1388723638
+s213248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c0000000052C63DB60000000000022F30
+t1388723638
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c0000000052C63DB6000000000001D1B0
+t1388723638
+s119216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052C63DB60000000000051110
+t1388723638
+s332048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052C63DB60000000000017E90
+t1388723638
+s97936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052C63DB700000000001BA370
+t1388723639
+s1811312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052C63DB6000000000001EFF0
+t1388723638
+s126960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052C63DB6000000000002FA40
+t1388723638
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052C63DB7000000000008B3E0
+t1388723639
+s570336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052C63DB700000000000B5FC0
+t1388723639
+s745408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052C63DB70000000000078620
+t1388723639
+s493088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052C63DB70000000000060810
+t1388723639
+s395280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052C63DB700000000000B6B40
+t1388723639
+s748352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052C63DB70000000000039D00
+t1388723639
+s236800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052C63DB7000000000003E940
+t1388723639
+s256320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052C63DB7000000000002CF80
+t1388723639
+s184192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052C63DB7000000000001EB50
+t1388723639
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052C63DB7000000000001EDE0
+t1388723639
+s126432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c0000000052C63DB700000000000213C0
+t1388723639
+s136128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052C63DB700000000000ADAC0
+t1388723639
+s711360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053497CC60000000000000132
+t1397324998
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531F21560000000000000094
+t1394549078
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531F21560000000000000096
+t1394549078
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F2156000000000000036B
+t1394549078
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2157000000000000019E
+t1394549079
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F2158000000000063A500
+t1394549080
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F2159000000000079C660
+t1394549081
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053497CA600000000004D7BC0
+t1397324966
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F21590000000000433410
+t1394549081
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F21590000000000306EF0
+t1394549081
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F2159000000000006DCD0
+t1394549081
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F215A0000000000A90C10
+t1394549082
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F215B00000000000417E0
+t1394549083
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F215C0000000000649DB0
+t1394549084
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F215C0000000000186D60
+t1394549084
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F215F0000000002759920
+t1394549087
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F21650000000000385D50
+t1394549093
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F2168000000000001E300
+t1394549096
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F2168000000000055EFE0
+t1394549096
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c00000000531F2168000000000002A880
+t1394549096
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000531F216800000000000458C0
+t1394549096
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000531F2168000000000003E3E0
+t1394549096
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c00000000531F2168000000000002B130
+t1394549096
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000531F216800000000000E1FD0
+t1394549096
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F216800000000000A2A70
+t1394549096
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c00000000531F2168000000000001E8A0
+t1394549096
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c00000000531F21680000000000034380
+t1394549096
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c00000000531F21680000000000022F30
+t1394549096
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c00000000531F2168000000000001E2A0
+t1394549096
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000531F21680000000000052520
+t1394549096
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000531F21680000000000015F20
+t1394549096
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531F216900000000001B90D0
+t1394549097
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531F2168000000000001F170
+t1394549096
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531F2168000000000002FCF0
+t1394549096
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c00000000531F2169000000000008A150
+t1394549097
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531F216900000000000B60E0
+t1394549097
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c00000000531F21690000000000078720
+t1394549097
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531F216900000000000621F0
+t1394549097
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F216900000000000BDAE0
+t1394549097
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000531F21690000000000039080
+t1394549097
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531F2169000000000003CBC0
+t1394549097
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000531F2169000000000002CFE0
+t1394549097
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531F2169000000000001EB50
+t1394549097
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531F2169000000000001EED0
+t1394549097
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c00000000531F216900000000000236B0
+t1394549097
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F216900000000000AC500
+t1394549097
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052C63DE90000000000000AC9
+t1388723689
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052C63DE90000000000005004
+t1388723689
+s20484
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F21950000000000000ADC
+t1394549141
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053497CA7000000000000514C
+t1397324967
+s20812
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch
+t1405086472
+s110392
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+t1405086472
+s66408
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+t1405086472
+s47672
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+t1405086472
+s39700
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+t1405090485
+s104408
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+t1405086472
+s4192
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList
+c0000000053BFEB0600000000000002BC
+t1405086470
+s700
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_dependencies.txt
+t1392207071
+s397
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist
+t1392207071
+s525
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+t1405086728
+s481
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+t1405090485
+s544
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM
+t1405088311
+s102
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/Base.lproj/Main.storyboardc
+t1392587975
+s170
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/CustomCell.nib
+t1405088311
+s3620
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/ExampleViewController.nib
+t1392728837
+s4653
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/Info.plist
+t1392207072
+s1286
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/PkgInfo
+t1392207072
+s8
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/RE.plist
+t1392729002
+s1953
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+t1405086470
+s150
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+t1405086472
+s8182
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings
+t1392207070
+s42
+
+N/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample
+t1405090485
+s81008
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.h
+c0000000052FAEC270000000000000114
+t1392176167
+s276
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m
+c0000000052FAEC2700000000000007D6
+t1392176167
+s2006
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/Base.lproj/Main.storyboard
+c00000000530134C600000000000019E0
+t1392587974
+s6624
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.h
+c000000005301528F0000000000000181
+t1392595599
+s385
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m
+c0000000052FE1B020000000000000208
+t1392384770
+s520
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib
+c0000000053BFF2360000000000001471
+t1405088310
+s5233
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.h
+c0000000052FE169800000000000000E4
+t1392383640
+s228
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m
+c0000000053014FC400000000000002C7
+t1392594884
+s711
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.xib
+c0000000053035B030000000000000C51
+t1392728835
+s3153
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/Images.xcassets
+c0000000052FAEC270000000000000088
+t1392176167
+s136
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/RE.plist
+c0000000053035BA90000000000000DEE
+t1392729001
+s3566
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.h
+c0000000052FCC22A0000000000000153
+t1392296490
+s339
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m
+c0000000053BFFAB40000000000002140
+t1405090484
+s8512
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/en.lproj/InfoPlist.strings
+c0000000052FAEC27000000000000002D
+t1392176167
+s45
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/main.m
+c0000000052FAEC270000000000000150
+t1392176167
+s336
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/sample-Info.plist
+c0000000052FAEC2700000000000004C5
+t1392176167
+s1221
+
+N/Users/KentarOu/Desktop/Regular_Expression/sample/sample-Prefix.pch
+c0000000052FAEC270000000000000158
+t1392176167
+s344
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.pch
+t1392207070
+s110024
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+t1392207070
+s69252
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+t1392595599
+s50252
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+t1392594884
+s41744
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+t1392728835
+s106280
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+t1392207070
+s4304
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList
+c0000000052FE183100000000000002F8
+t1392384049
+s760
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_dependencies.txt
+t1392207071
+s397
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist
+t1392207071
+s525
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+t1392725841
+s404
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+t1392729003
+s544
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app.dSYM
+t1392729002
+s102
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Base.lproj/Main.storyboardc
+t1392587975
+s170
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/CustomCell.nib
+t1392726447
+s3480
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/ExampleViewController.nib
+t1392728837
+s4653
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Info.plist
+t1392207072
+s1286
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/PkgInfo
+t1392207072
+s8
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE.plist
+t1392729002
+s1953
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE_content.plist
+t1392502654
+s116
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+t1392207070
+s150
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+t1392207072
+s8004
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings
+t1392207070
+s42
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample
+t1392729003
+s91392
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.h
+c0000000052FAEC270000000000000114
+t1392176167
+s276
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m
+c0000000052FAEC2700000000000007D6
+t1392176167
+s2006
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Base.lproj/Main.storyboard
+c00000000530134C600000000000019E0
+t1392587974
+s6624
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.h
+c000000005301528F0000000000000181
+t1392595599
+s385
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m
+c0000000052FE1B020000000000000208
+t1392384770
+s520
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.xib
+c00000000530351AD0000000000001436
+t1392726445
+s5174
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.h
+c0000000052FE169800000000000000E4
+t1392383640
+s228
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m
+c0000000053014FC400000000000002C7
+t1392594884
+s711
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.xib
+c0000000053035B030000000000000C51
+t1392728835
+s3153
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Images.xcassets
+c0000000052FAEC270000000000000088
+t1392176167
+s136
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/RE.plist
+c0000000053035BA90000000000000DEE
+t1392729001
+s3566
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/RE_content.plist
+c0000000052FFE77E0000000000000197
+t1392502654
+s407
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.h
+c0000000052FCC22A0000000000000153
+t1392296490
+s339
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m
+c0000000053035B030000000000001FFD
+t1392728835
+s8189
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/en.lproj/InfoPlist.strings
+c0000000052FAEC27000000000000002D
+t1392176167
+s45
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m
+c0000000052FAEC270000000000000150
+t1392176167
+s336
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Info.plist
+c0000000052FAEC2700000000000004C5
+t1392176167
+s1221
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Prefix.pch
+c0000000052FAEC270000000000000158
+t1392176167
+s344
+
+N/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision
+c0000000052C700FE0000000000001F44
+t1388773630
+s8004
+
+N/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision
+c0000000053B9D7F80000000000001FF6
+t1404688376
+s8182
+
+CBuild AST from /Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Regular_Expression/sample/main.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies541dca343270b941^4e5ecc343270b941^---0#1#1#--18"Check dependencies36"F0A56C45-B602-4C17-B6F6-E460CC39D7F4-
+
+CCodeSign /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+s426783285.864902
+e426783286.068031
+r1
+xCodeSign
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CodeSign Build/Products/Debug-iphoneos/sample.app49"CodeSign Build/Products/Debug-iphoneos/sample.app2d7cdd353270b941^876b11363270b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/0000000000000000^1016"CodeSign Build/Products/Debug-iphoneos/sample.app    cd /Users/KentarOu/Desktop/Regular_Expression    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: kanno kentarou (QYGNX6A4B8)" and provisioning profile "iOS Team Provisioning Profile: *" (D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0)    /usr/bin/codesign --force --sign 9391773AC85854464CC0ACA2F0910431CE25C6D4 --resource-rules=/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist --entitlements /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app36"16E7B7E1-8ADA-47AE-9C86-4CE2BC80E2B4-
+b93856DFE-6BFE-4C5C-ABD7-C1CBFE8DD37E
+
+CCodeSign /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+s414421802.033688
+e414421803.647084
+r1
+xCodeSign
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+o/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CodeSign Build/Products/Debug-iphoneos/sample.app49"CodeSign Build/Products/Debug-iphoneos/sample.appaab9082a93b3b841^e3a7a52b93b3b841^-126"/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@109"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/Build/Products/Debug-iphoneos/sample.app/0000000000000000^1047"CodeSign Build/Products/Debug-iphoneos/sample.app    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: kanno kentarou (QYGNX6A4B8)" and provisioning profile "iOS Team Provisioning Profile: *" (3910522E-23A6-4BE4-823D-512F815ABE66)    codesign --force --sign C73E70D932EA59AF916B08AD3A2AB63CD72F71C6 --resource-rules=/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist --entitlements /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sam36"BD99C8FA-C56B-4076-BF77-B8977A1628FF-
+bA4DCBACD-5B71-4472-A576-F9EC77580973
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app /Users/KentarOu/Desktop/Regular_Expression/sample/Images.xcassets
+r0
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Images.xcassets
+s413899870.801256
+e413899871.875676
+r1
+xCompileAssetCatalog
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/LaunchImage-700-568h@2x.png
+o/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Assets.car
+o/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"CompileAssetCatalog Build/Products/Debug-iphoneos/sample.app sample/Images.xcassets83"CompileAssetCatalog Build/Products/Debug-iphoneos/sample.app sample/Images.xcassetsad34cd5e9cabb841^f52ce05f9cabb841^-425"/* com.apple.actool.compilation-results *//Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/LaunchImage-700-568h@2x.png/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Assets.car/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/Images.xcassets/0000000000000000^1113"CompileAssetCatalog Build/Products/Debug-iphoneos/sample.app sample/Images.xcassets    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Images36"F88D9262-7457-464E-961C-3306B1154A9E-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426779272.099260
+e426779272.471993
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+x/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m
+d/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m194"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e8b19882270b941^f2ea78882270b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m0000000000000000^3497"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.dia -c /Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.m -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o36"1E80DA2C-623B-4FEE-B062-52D2D462E986-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413899870.476702
+e413899870.614040
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m194"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc0237a5e9cabb841^7a349d5e9cabb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/AppDelegate.m0000000000000000^3637"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o sample/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects36"D1FF92C8-3385-485E-A9A5-D54C1596881F-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426779272.100641
+e426779272.472315
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+x/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m
+d/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m192"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler130d1a882270b941^feef78882270b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m0000000000000000^3491"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.d --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.dia -c /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.m -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o36"D847DEA6-08FE-4234-9372-3B6B1E60DDD3-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414288399.307448
+e414288399.385676
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m192"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4cc4e0f8ab1b841^7fbd620f8ab1b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/CustomCell.m0000000000000000^3631"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o sample/CustomCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Object36"705263E0-DF82-4A39-BBD0-A8134B7D1D41-
+b9DEC41B8-0FD6-42D0-B06B-B21040F5EF6C
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426779272.099655
+e426779272.471335
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+x/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m
+d/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m214"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4aa19882270b941^6eda78882270b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m0000000000000000^3557"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.dia -c /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.m -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o36"A6B91719-1ED0-4716-A26A-8B6684DB8361-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414287684.103411
+e414287684.175891
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m214"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd941a4487b1b841^d1052d4487b1b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/ExampleViewController.m0000000000000000^3697"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o sample/ExampleViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/ar36"352C668E-6446-49D5-B0E6-217649AE2188-
+bCD33E7BE-1B08-4D3B-ACA1-6B83031690A9
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426783284.792967
+e426783285.649210
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+x/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m
+d/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.h
+d/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.h
+d/Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.h
+o/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m:56:15: warning: unused variable 'str' [-Wunused-variable]
+o    NSString *str = @"^[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]+(?:\\.[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]*)*@(?:[A-Z_a-z0-9][A-Z-a-z0-9]*\\.)*(?:[A-Za-z0-9][A-Z-a-z0-9]{0,62})\\.(?:?:[A-Za-z]{2}.)?[A-Za-z]{2,})$";
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m200"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0118cb343270b941^a834a6353270b941^-375"/Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m:56:15: warning: unused variable 'str' [-Wunused-variable]    NSString *str = @"^[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]+(?:\\.[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]*)*@(?:[A-Z_a-z0-9][A-Z-a-z0-9]*\\.)*(?:[A-Za-z0-9][A-Z-a-z0-9]{0,62})\\.(?:?:[A-Za-z]{2}.)?[A-Za-z]{2,})$";              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@21"Unused variable 'str'-426783285#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file:///Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m0000000000000000^55#14#55#14#2636#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m0000000000000000^3515"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.dia -c /Users/KentarOu/Desktop/Regular_Expression/sample/ViewController.m -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o36"D3F420E4-E74B-4D60-809F-3BC792A4C131-
+b93856DFE-6BFE-4C5C-ABD7-C1CBFE8DD37E
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414421635.744068
+e414421635.870198
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.h
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.h
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.h
+o/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m:56:15: warning: unused variable 'str' [-Wunused-variable]
+o    NSString *str = @"^[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]+(?:\\.[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]*)*@(?:[A-Z_a-z0-9][A-Z-a-z0-9]*\\.)*(?:[A-Za-z0-9][A-Z-a-z0-9]{0,62})\\.(?:?:[A-Za-z]{2}.)?[A-Za-z]{2,})$";
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m200"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ea9be8392b3b841^3fc8de8392b3b841^-387"/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m:56:15: warning: unused variable 'str' [-Wunused-variable]    NSString *str = @"^[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]+(?:\\.[A-Za-z0-9]!#$%&\\’*+\\/=?^_`{|}~-]*)*@(?:[A-Z_a-z0-9][A-Z-a-z0-9]*\\.)*(?:[A-Za-z0-9][A-Z-a-z0-9]{0,62})\\.(?:?:[A-Za-z]{2}.)?[A-Za-z]{2,})$";              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@21"Unused variable 'str'-414421635#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/ViewController.m0000000000000000^55#14#55#14#2636#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@91"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/ViewController.m0000000000000000^3655"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o sample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-no36"F1C3C0CE-AE28-4F11-9D6F-7A09E511FF9D-
+bE74E2071-DF44-4163-B4CD-14C498250C74
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Regular_Expression/sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426779272.471748
+e426779272.518540
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+x/Users/KentarOu/Desktop/Regular_Expression/sample/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/main.m
+d/Users/KentarOu/Desktop/Regular_Expression/sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/KentarOu/Desktop/Regular_Expression/sample/main.m180"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb60f79882270b941^4dbf84882270b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/KentarOu/Desktop/Regular_Expression/sample/main.m0000000000000000^3455"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.dia -c /Users/KentarOu/Desktop/Regular_Expression/sample/main.m -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o36"25206EA2-3FCC-42CD-947E-F2144667C100-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413899870.477196
+e413899870.557488
+r1
+xCompileC
+xBuild/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m180"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a467a5e9cabb841^52b88e5e9cabb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/main.m0000000000000000^3595"CompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o sample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/36"820F3294-3A19-4E2D-916B-19AF75CE2ED9-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/CustomCell.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/ExampleViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/CustomCell.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/ExampleViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/KentarOu/Desktop/Regular_Expression/sample/Base.lproj/Main.storyboard
+r0
+
+CCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Base.lproj/Main.storyboard
+s414280774.548205
+e414280775.965893
+r1
+xCompileStoryboard
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard sample/Base.lproj/Main.storyboard51"CompileStoryboard sample/Base.lproj/Main.storyboardac6f8c466cb1b841^e140fc476cb1b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/Base.lproj/Main.storyboard0000000000000000^825"CompileStoryboard sample/Base.lproj/Main.storyboard    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Base.lproj/Main.storyboardc /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/Base.lproj/Main.storyboard36"968A14F2-6D23-4C91-8C70-44CD6B0A427C-
+b252094E3-5E98-496B-9DA0-7B35A6D7F087
+
+CCompileXIB /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib
+s426781110.914748
+e426781111.897139
+r1
+xCompileXIB
+x/Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compiling /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib32"CompileXIB sample/CustomCell.xib6a88eab62970b941^7eabe5b72970b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib0000000000000000^695"CompileXIB sample/CustomCell.xib    cd /Users/KentarOu/Desktop/Regular_Expression    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/CustomCell.nib /Users/KentarOu/Desktop/Regular_Expression/sample/CustomCell.xib36"6C3CEABD-EF95-41CE-A9BF-0B3F0CD539A3-
+b238BA2D3-3070-4F01-B0F2-F39EC38195CF
+
+CCompileXIB /Users/KentarOu/Desktop/Regular_Expression/sample/ExampleViewController.xib
+r0
+
+CCompileXIB /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.xib
+s414419245.807372
+e414419247.021452
+r1
+xCompileXIB
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.xib32"CompileXIB sample/CustomCell.xibfcc3ce2d89b3b841^897e052f89b3b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/CustomCell.xib0000000000000000^731"CompileXIB sample/CustomCell.xib    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/CustomCell.nib /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/CustomCell.xib36"EB11B8BD-C78F-4647-B108-E2EBBFBABE55-
+bC4354E86-65F6-4E87-A7DD-7B9FB3D0F02C
+
+CCompileXIB /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.xib
+s414421635.904125
+e414421637.048334
+r1
+xCompileXIB
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.xib43"CompileXIB sample/ExampleViewController.xib5d8ae78392b3b841^02640c8592b3b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/ExampleViewController.xib0000000000000000^764"CompileXIB sample/ExampleViewController.xib    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/ExampleViewController.nib /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/ExampleViewController.xib36"54A059B1-9CFA-4A74-B41B-51355EFA7D98-
+bE74E2071-DF44-4163-B4CD-14C498250C74
+
+CCopyPlistFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/RE.plist sample/RE.plist
+r0
+
+CCopyPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE.plist sample/RE.plist
+s414421802.004037
+e414421802.005655
+r1
+xCopyPlistFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE.plist
+xsample/RE.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection20"Copy sample/RE.plist79"CopyPlistFile Build/Products/Debug-iphoneos/sample.app/RE.plist sample/RE.plist5c1c012a93b3b841^9068022a93b3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/RE.plist0000000000000000^494"CopyPlistFile Build/Products/Debug-iphoneos/sample.app/RE.plist sample/RE.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app -- sample/RE.plist36"E3D2A9EB-F9BE-4819-9E48-8CE511C6FAC5-
+bA4DCBACD-5B71-4472-A576-F9EC77580973
+
+CCopyPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE_content.plist sample/RE_content.plist
+s414195454.191196
+e414195454.192819
+r1
+xCopyPlistFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/RE_content.plist
+xsample/RE_content.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Copy sample/RE_content.plist95"CopyPlistFile Build/Products/Debug-iphoneos/sample.app/RE_content.plist sample/RE_content.plist3c1431fe1eb0b841^40a631fe1eb0b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/RE_content.plist0000000000000000^518"CopyPlistFile Build/Products/Debug-iphoneos/sample.app/RE_content.plist sample/RE_content.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app -- sample/RE_content.plist36"4B62A0D4-9DBC-4BBB-8103-F07232413CC6-
+bD1EFCFD1-A4B1-4706-8212-A27DC8A903B7
+
+CCopyStringsFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings sample/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings sample/en.lproj/InfoPlist.strings
+s413899870.800143
+e413899870.839832
+r1
+xCopyStringsFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings
+xsample/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy sample/en.lproj/InfoPlist.strings117"CopyStringsFile Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings sample/en.lproj/InfoPlist.stringsc0eacc5e9cabb841^f3ffd65e9cabb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/en.lproj/InfoPlist.strings0000000000000000^600"CopyStringsFile Build/Products/Debug-iphoneos/sample.app/en.lproj/InfoPlist.strings sample/en.lproj/InfoPlist.strings    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/en.lproj -- sample/en.lproj/InfoPlist.strings36"C09058FB-C1CD-4CB9-9E77-BA055A1C6B9C-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+s413899870.269597
+e413899870.271170
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist193"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plistca1a455e9cabb841^87c3465e9cabb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist00343077dfffdf42^774"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app36"A0764CE0-7BFC-4218-B95D-6AC46CE115CB-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+s426779270.403914
+e426779270.407052
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/sample.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist193"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plistea7567862270b941^6d3868862270b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist0000000000000000^750"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist    cd /Users/KentarOu/Desktop/Regular_Expression    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app36"3DFCBEB0-05C7-4B49-BBC3-41CEBBF6B771-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CCreateUniversalBinary /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample
+s426783285.830631
+e426783285.863786
+r1
+xGenerateDSYMFile
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM110"GenerateDSYMFile Build/Products/Debug-iphoneos/sample.app.dSYM Build/Products/Debug-iphoneos/sample.app/sample03b1d4353270b941^ff21dd353270b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM/0000000000000000^632"GenerateDSYMFile Build/Products/Debug-iphoneos/sample.app.dSYM Build/Products/Debug-iphoneos/sample.app/sample    cd /Users/KentarOu/Desktop/Regular_Expression    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample -o /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app.dSYM36"345A5F8D-0874-448F-A241-A16C8DCF7626-
+b93856DFE-6BFE-4C5C-ABD7-C1CBFE8DD37E
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample
+s414421837.824995
+e414421837.844680
+r1
+xGenerateDSYMFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app.dSYM
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app.dSYM110"GenerateDSYMFile Build/Products/Debug-iphoneos/sample.app.dSYM Build/Products/Debug-iphoneos/sample.app/sample6842d34d93b3b841^793dd84d93b3b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/Build/Products/Debug-iphoneos/sample.app.dSYM/0000000000000000^668"GenerateDSYMFile Build/Products/Debug-iphoneos/sample.app.dSYM Build/Products/Debug-iphoneos/sample.app/sample    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app.dSYM36"FC2363E6-B30C-41BE-AB02-8EDC8B3ADBD4-
+b91ACDC00-6CAB-411F-A42F-E50A0BE0A7E5
+
+CLd /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample normal arm64
+s426783285.652289
+e426783285.828415
+r1
+xLd
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample
+xnormal
+xarm64
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+d/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample63"Ld Build/Products/Debug-iphoneos/sample.app/sample normal arm64fe0ca7353270b941^0e14d4353270b941^---0#0#1#--1284"Ld Build/Products/Debug-iphoneos/sample.app/sample normal arm64    cd /Users/KentarOu/Desktop/Regular_Expression    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos -filelist /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample_dependency_info.dat -o /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/sample36"2365742D-E280-442F-BA5E-C5457A8F80EF-
+b93856DFE-6BFE-4C5C-ABD7-C1CBFE8DD37E
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample normal arm64
+r0
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7/sample normal armv7
+r0
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/armv7s/sample normal armv7s
+r0
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample normal arm64
+s414421635.872236
+e414421635.902723
+r1
+xLd
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample
+xnormal
+xarm64
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ViewController.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/AppDelegate.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/ExampleViewController.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/CustomCell.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/sample63"Ld Build/Products/Debug-iphoneos/sample.app/sample normal arm644661df8392b3b841^e719e78392b3b841^---0#0#1#--1344"Ld Build/Products/Debug-iphoneos/sample.app/sample normal arm64    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos -filelist /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/Objects-normal/arm64/sample_dependency_info.dat -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample36"71BC48C7-6FED-4F97-8494-07D8F528AED8-
+bE74E2071-DF44-4163-B4CD-14C498250C74
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/Info.plist /Users/KentarOu/Desktop/Regular_Expression/sample/sample-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Info.plist
+s413899872.016845
+e413899872.019207
+r1
+xProcessInfoPlistFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/Info.plist
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Info.plist97"ProcessInfoPlistFile Build/Products/Debug-iphoneos/sample.app/Info.plist sample/sample-Info.plist956504609cabb841^37350c609cabb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/sample-Info.plist0000000000000000^1034"ProcessInfoPlistFile Build/Products/Debug-iphoneos/sample.app/Info.plist sample/sample-Info.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Info.plist -genpkginfo /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/ResourceRules.plist -additionalcontentfile /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/assetcatalog_generated_info.plist -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app36"6745A986-3CAE-4B54-BB3A-BEF372C626EF-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CProcessPCH /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426779270.408918
+e426779272.098190
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch
+xsample/sample-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Regular_Expression/sample/sample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile sample/sample-Prefix.pch208"ProcessPCH Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler43c568862270b941^f22419882270b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/KentarOu/Desktop/Regular_Expression/sample/sample-Prefix.pch0000000000000000^3390"ProcessPCH Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Regular_Expression    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.d -c /Users/KentarOu/Desktop/Regular_Expression/sample/sample-Prefix.pch -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/PrecompiledHeaders/sample-Prefix-darweoayxorhnwbcmlctlgstsbuo/sample-Prefix.pch.pch36"C35F06B8-E4DC-4879-99DB-FB361C9DA70C-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413899870.272081
+e413899870.475493
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.pch
+xsample/sample-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile sample/sample-Prefix.pch208"ProcessPCH Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1955465e9cabb841^23bc795e9cabb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/sample/sample-Prefix.pch0000000000000000^3520"ProcessPCH Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdivick/sample-Prefix.pch.d -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/sample/sample-Prefix.pch -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-bctggfhtjfrldrbpinpsjgdiv36"98C29910-5211-4B89-A924-CD4B9E7A1111-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-glixkngoxpnmaqatbxjqwnssrjgc/sample-Prefix.pch.pch sample/sample-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/PrecompiledHeaders/sample-Prefix-gzuhyolcyqwohxdzlhtglmszommu/sample-Prefix.pch.pch sample/sample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/sample-cgmhezspnksfonhanpxwjatnyqmk/Index/PrecompiledHeaders/sample-Prefix-culxbcvfcuhkmtdesrzsqzfmfxom_ast/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/sample-cgmhezspnksfonhanpxwjatnyqmk/Index/PrecompiledHeaders/sample-Prefix-evgwuykthbrbgwezqndjpklcaurk_ast/sample-Prefix.pch.pch sample/sample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/sample-cgmhezspnksfonhanpxwjatnyqmk/Index/PrecompiledHeaders/sample-Prefix-gihnhxvcccfzurahhsaexkqsbggz_ast/sample-Prefix.pch.pch sample/sample-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/sample-hfxudgbhkqwmrsbrkxmppwrgtkqs/Index/PrecompiledHeaders/sample-Prefix-bhdxdijnwmecmlapkhxwougzvxxc_ast/sample-Prefix.pch.pch sample/sample-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+s414418641.586710
+e414418641.588249
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection218"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent218"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcentf64196d186b3b841^d09796d186b3b841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent0000000000000000^784"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent36"E53C69CC-9E43-4281-BF35-942AEBEAB5C3-
+b35AD8BC1-8433-4BB8-8F47-D90590543013
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+s426779528.657857
+e426779528.658962
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection218"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent218"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent1477a8882370b941^64b2a8882370b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent0000000000000000^760"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent    cd /Users/KentarOu/Desktop/Regular_Expression    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/KentarOu/Desktop/Regular_Expression/Build/Intermediates/sample.build/Debug-iphoneos/sample.build/sample.xcent36"7D5F7D33-0639-4950-8107-566AA3E54C3F-
+b82140632-A0E6-4F72-87AA-3A77FE3593A7
+
+CProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+s413899872.049287
+e413899872.066966
+r1
+xProcessProductPackaging
+x/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision202"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision4bb00c609cabb841^3d2711609cabb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/KentarOu/Desktop/Xcode_Project/2014_2%E6%9C%88/sample/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision00343077dfffdf42^726"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/3910522E-23A6-4BE4-823D-512F815ABE66.mobileprovision -o /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision36"4252D523-06A1-47E8-B16F-2BEFC6F02570-
+b7769B87B-D2D0-408E-AB70-1A83E381A07A
+
+CProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+s426779272.871406
+e426779272.875432
+r1
+xProcessProductPackaging
+x/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision
+x/Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision202"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision6f2ddf882270b941^b119e0882270b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision0000000000000000^702"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision    cd /Users/KentarOu/Desktop/Regular_Expression    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/D5CB41A7-EA4B-47A9-BA87-D2B7BF1851B0.mobileprovision -o /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app/embedded.mobileprovision36"E31AE44C-DC91-47BC-8280-D0A63D9B7AD8-
+bBEF179AF-3B97-44D4-9EBF-41F2F339884B
+
+CTouch /Users/KentarOu/Desktop/Regular_Expression/Build/Products/Debug-iphoneos/sample.app
+r0
+
+CTouch /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+s414280775.993193
+e414280775.998094
+r1
+xTouch
+x/Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app46"Touch Build/Products/Debug-iphoneos/sample.app5e64fe476cb1b841^ccf106486cb1b841^---0#0#1#--415"Touch Build/Products/Debug-iphoneos/sample.app    cd /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/KentarOu/Desktop/Xcode_Project/2014_2月/sample/Build/Products/Debug-iphoneos/sample.app36"36195C7E-2603-425D-9788-8DDE0A73D46F-
+b252094E3-5E98-496B-9DA0-7B35A6D7F087
+
