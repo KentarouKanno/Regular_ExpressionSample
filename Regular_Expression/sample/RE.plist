@@ -51,6 +51,7 @@
 		<string>cかdどちらか+K文字、もしくは無し(K文字のみ)</string>
 		<string>すべて入力可</string>
 		<string>メールアドレスチェック</string>
+		<string>media=の前に&amp;か?か&amp;amp;があるか？</string>
 	</array>
 	<key>RE_contents</key>
 	<array>
@@ -73,6 +74,7 @@
 		<string>^(c|d)?K$</string>
 		<string>^.*$</string>
 		<string>^[A-Za-z0-9]!#$%&amp;\\’*+\\/=?^_`{|}~-]+(?:\\.[A-Za-z0-9]!#$%&amp;\\’*+\\/=?^_`{|}~-]*)*@(?:[A-Z_a-z0-9][A-Z-a-z0-9]*\\.)*(?:[A-Za-z0-9][A-Z-a-z0-9]{0,62})\\.(?:?:[A-Za-z]{2}.)?[A-Za-z]{2,})$</string>
+		<string>(&amp;|\?|&amp;amp;)+media=</string>
 	</array>
 	<key>RE_Exsample</key>
 	<array>
@@ -95,6 +97,7 @@
 		<string>cK</string>
 		<string>abcABC123!&quot;#</string>
 		<string>kanno@kentarou.me</string>
+		<string>http://aa=aa?media=</string>
 	</array>
 </dict>
 </plist>
